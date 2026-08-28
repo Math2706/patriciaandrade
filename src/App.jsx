@@ -6,7 +6,7 @@ import { TrustBar } from './components/TrustBar';
 import { LiftingConcept } from './components/LiftingConcept';
 import { ProceduresGrid } from './components/ProceduresGrid';
 import { ComparativeMatrix } from './components/ComparativeMatrix';
-import { ManifestoAbout } from './components/ManifestoAbout';
+import { AboutSection } from './components/AboutSection';
 import { Testimonials } from './components/Testimonials';
 import { PreFooterCTA } from './components/PreFooterCTA';
 import { Footer } from './components/Footer';
@@ -38,8 +38,8 @@ function App() {
         {/* Comparative matrix: Dra. Patrícia vs Market */}
         <ComparativeMatrix />
 
-        {/* Manifesto & Biomédica Esteta background */}
-        <ManifestoAbout />
+        {/* Sobre a Especialista & Clinical Differentials */}
+        <AboutSection />
 
         {/* Verified testimonials */}
         <Testimonials />
