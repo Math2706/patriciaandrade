@@ -67,7 +67,7 @@ export const PROCEDURES = [
     description: "Aplicação dos indutores mais consagrados mundialmente para combater a flacidez e o aspecto derretido, recuperando a espessura dérmica.",
     highlights: ["Estimulação a longo prazo", "Melhora do viço e textura", "Prevenção do envelhecimento"],
     link: "https://wa.me/5511985343231?text=Ol%C3%A1%20Dra.%20Patr%C3%ADcia!%20Gostaria%20de%20agendar%20uma%20avalia%C3%A7%C3%A3o%20para%20Bioestimula%C3%A7%C3%A3o%20de%20Col%C3%A1geno.",
-    badge: "Tecnologia Padrão Ouro"
+    badge: "Padrão Ouro"
   },
   {
     id: "labial",
@@ -79,15 +79,6 @@ export const PROCEDURES = [
     badge: "Harmonia Sutil"
   },
   {
-    id: "olheiras",
-    title: "Tratamento de Olheiras & Olhar",
-    subtitle: "Suavização do Cansaço Facial",
-    description: "Correção do sulco nasojugal (olheira profunda) e clareamento das sombras que transmitem fadiga crônica, devolvendo luminosidade ao olhar.",
-    highlights: ["Aspecto descansado", "Preenchimento ultrafino", "Resultado leve e discreto"],
-    link: "https://wa.me/5511985343231?text=Ol%C3%A1%20Dra.%20Patr%C3%ADcia!%20Gostaria%20de%20agendar%20o%20Tratamento%20de%20Olheiras.",
-    badge: "Iluminação Facial"
-  },
-  {
     id: "botox",
     title: "Toxina Botulínica de Alta Precisão",
     subtitle: "Preventiva & Reparadora",
@@ -95,15 +86,6 @@ export const PROCEDURES = [
     highlights: ["Expressão leve e sem congelamento", "Prevenção de rugas estáticas", "Aplicação anatômica"],
     link: "https://wa.me/5511985343231?text=Ol%C3%A1%20Dra.%20Patr%C3%ADcia!%20Gostaria%20de%20agendar%20aplica%C3%A7%C3%A3o%20de%20Toxina%20Botul%C3%ADnica.",
     badge: "Precisão Milimétrica"
-  },
-  {
-    id: "mandibula",
-    title: "Contorno Mandibular & Queixo",
-    subtitle: "Definição do Ângulo Facial",
-    description: "Acentuação elegante do perfil e da linha mandibular, criando uma transição nítida entre o rosto e o pescoço com extrema naturalidade.",
-    highlights: ["Emolduramento elegante", "Projeção sutil do mento", "Redução óptica da papada"],
-    link: "https://wa.me/5511985343231?text=Ol%C3%A1%20Dra.%20Patr%C3%ADcia!%20Gostaria%20de%20agendar%20o%20Contorno%20Mandibular%20e%20Queixo.",
-    badge: "Estrutura & Perfil"
   }
 ];
 
